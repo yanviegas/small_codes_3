@@ -1,2 +1,2 @@
 # small_codes_3
-Small codes created while the learning of R programming language.
+Small codes created as exercices of a R programming language course.
